@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   &emsp;&ensp; Cloud Architecture and good software dev practices.\
 - 👯 Open to collaborate on any type of project.\
 - 💬 &nbsp; Feel free to [connect with me](#-connect-with-me)
-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+- 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1uHsOMBEVJgLZdb4k4nNPbEWOuYsHAwtv/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 <hr/>
 
